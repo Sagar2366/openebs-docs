@@ -14,7 +14,7 @@ OpenEBS is innovation in OpenSource. Following are some ways in which you can co
 - Raise Issues on either the functionality or documentation
 - Submit Proposals for new Features/Enhancements 
 - Submit Changes to the Source Code
-- Submit Changes to Improve Documentation 
+- Submit Changes to Improve the Documentation 
 
 There are a few simple guidelines that you need to follow before providing your hacks
 
